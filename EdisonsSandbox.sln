@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdisonsSandbox", "EdisonsSandbox.csproj", "{CC476699-B144-4054-A187-97EE5FC33A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdisonsToolbox", "EdisonsToolbox\EdisonsToolbox.csproj", "{5D00A39D-04C6-4525-8BD3-2206297CD84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC476699-B144-4054-A187-97EE5FC33A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC476699-B144-4054-A187-97EE5FC33A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC476699-B144-4054-A187-97EE5FC33A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC476699-B144-4054-A187-97EE5FC33A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D00A39D-04C6-4525-8BD3-2206297CD84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00A39D-04C6-4525-8BD3-2206297CD84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D00A39D-04C6-4525-8BD3-2206297CD84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00A39D-04C6-4525-8BD3-2206297CD84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
